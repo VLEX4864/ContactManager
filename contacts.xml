@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Brandon</first_name>
+	<last_name>Lakatos</last_name>
+	<phone_number>0752188035</phone_number>
+	<notes>guy from the gym</notes>
+</contact>
+<contact>
+	<first_name>Samil</first_name>
+	<last_name>McQueen</last_name>
+	<phone_number>0748922013</phone_number>
+	<notes>rides motorbikes</notes>
+</contact>
+<contact>
+	<first_name>Marco</first_name>
+	<last_name>Polo</last_name>
+	<phone_number>0756200618</phone_number>
+	<notes>explorer</notes>
+</contact>
+<contact>
+	<first_name>Maria</first_name>
+	<last_name>Pop</last_name>
+	<phone_number>0756911030</phone_number>
+	<notes>colleague</notes>
+</contact>
+</contacts>
